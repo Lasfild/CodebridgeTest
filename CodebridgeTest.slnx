@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodebridgeTest.BusinessLogic/CodebridgeTest.BusinessLogic.csproj" />
+  <Project Path="CodebridgeTest.DataAccess/CodebridgeTest.DataAccess.csproj" />
+  <Project Path="CodebridgeTest/CodebridgeTest.csproj" />
+</Solution>
